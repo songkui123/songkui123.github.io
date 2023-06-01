@@ -32,7 +32,7 @@ ruby官网下载安装：[https://www.ruby-lang.org/en/downloads/](https://www.r
 
 ### 安装RubyGems
 
-官网下载 [http://rubygems.org/pages/download](http://rubygems.org/pages/download) rubygems-2.4.5.zip   
+官网下载 [http://rubygems.org/pages/download](http://rubygems.org/pages/download) rubygems
 
 cd到RubyGems目录   
 
