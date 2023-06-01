@@ -173,8 +173,8 @@ Shows at site header part.
 
 ```yml
 # Site settings
-title: HyG
-brief-intro: Front-end Dev Engineer
+title: Songkui
+brief-intro: 教程主页
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
 ```
