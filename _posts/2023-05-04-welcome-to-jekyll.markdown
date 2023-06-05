@@ -4,7 +4,7 @@ title:  "hello jekyll!"
 date:   2023-05-04 15:14:54
 categories: jekyll
 tags: jekyll
-excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+excerpt: 摩天轮动画主要分为 2 部分，一个是摩天轮上每个房间位置布局，另一个就是旋转动画了。
 mathjax: true
 ---
 
